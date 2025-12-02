@@ -1,2 +1,4 @@
 encrypted_seed.txt
 data/seed.txt
+__pycache__/
+__pycache__/
