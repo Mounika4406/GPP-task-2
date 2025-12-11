@@ -2,7 +2,10 @@
 # SENSITIVE FILES (DO NOT COMMIT)
 # ==========================
 encrypted_seed.txt
+# Allow data folder and seed file
+!data/
 !data/seed.txt
+
 
 # ==========================
 # PYTHON CACHE
